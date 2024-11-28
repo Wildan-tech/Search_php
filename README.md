@@ -21,6 +21,16 @@ Aplikasi ini memungkinkan pengguna untuk:
 
 ## Cara Instalasi
 
-Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi ini di komputer lokal.
+- Pastikan anda memiliki server php.
+- Download aplikasinya dan lalu salin ke server php anda.
+- Selesai
 
-### Prasyarat
+## Tenang Project
+
+- Project ini boleh di modifikasi karena project ini hanya uji coba dari saya dan boleh di sebar luaskan oleh siapa saja.
+
+## Catatan
+
+- Mesin pencari ini menggunakan JSON sebagai database penyimpanan Data URL.
+
+## Selesai
