@@ -33,4 +33,5 @@ Aplikasi ini memungkinkan pengguna untuk:
 
 - Mesin pencari ini menggunakan JSON sebagai database penyimpanan Data URL.
 
-## Selesai
+## Belum Di Kirim
+
